@@ -7,6 +7,6 @@ All u have to do now is type:
 
 
 
-In no way do I claim this to be **my**. 
+In no way do I claim this to be **my** code. 
 Thanks to : https://www.youtube.com/watch?v=MgJBgnsDcF0&t=409s&ab_channel=CSStudents
 I was able to create a battleship program by following this tutorial ^.^
